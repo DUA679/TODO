@@ -1,0 +1,26 @@
+Q)=1  D/F  between MPA ans SPA?
+           SINGLE PAGE APPLICATION
+Answer=1 SPA ki render krne ki yani run krne ki speed ziada hoti hai.
+       2  SPA mian anchor tag ka istimal nhi krna hota .
+       3  SPA main br br pages reload nhin  hotey
+       4  SPA time kam leti hai banizmad mpa k
+       5  SPA ek hi br run krti h cdn or api,s or etc.
+        MULTI PAGE APPLICATION
+       1 MPA ki render speed spa se kam hoti h wo time leti h or net ki usage bhi xiada leti h.
+       2MPA main br br sari pages ko relaod hona prta h jisko wjh se time rendering ziada hoti h.
+       3 MPA app bri or heavy net consist krti he spa se,.
+       4 mpa slow he spa se
+       5 MPA 
+Q)=2 JSX
+1=struture base krta h component pr
+2=easily javascript ki trha intigrate hota h
+3=easly read hojata h html ki trha
+4=codebase easy define hota h  smjhne main
+
+Q)=3 usage of hooks
+1=stateful logic ko components seextract krta h easily
+2=ye br br use krne ka alow krta h components ko
+3=baki react features ko bhi state k zrye acess deta h
+4=
+
+       
